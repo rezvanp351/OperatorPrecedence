@@ -176,11 +176,10 @@ So `expr == 31`.
 
 ## How to use these files in your GitHub repo
 - Save the README portion as `README.md` in the repository root.
-- Save the example code as `examples.py` and include it in the repo. Users can run it to see outputs.
+- Save the example code as `OperatorPrecedence.py` and include it in the repo. Users can run it to see outputs.
 
 ---
 
-## Suggested tags / hashtags for a video or repo
 `#Python #PythonTips #OperatorPrecedence #Programming #LearnPython #Python3`
 
 ---
